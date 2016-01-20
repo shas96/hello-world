@@ -16,6 +16,6 @@ public class MainClass {
 		aNumbers.add(15);
 		aNumbers.add(16);
 		aNumbers.add(9);
-		System.out.println(addNumbers.addNumbers(aNumbers));
+		System.out.println("Final sum value is : "+addNumbers.addNumbers(aNumbers));
 	}
 }
